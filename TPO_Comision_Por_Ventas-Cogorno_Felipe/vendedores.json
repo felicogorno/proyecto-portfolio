@@ -1,0 +1,70 @@
+[
+    {
+        "legajo": 1238632,
+        "sueldo_basico": 500000.0,
+        "ventas": [
+            {
+                "mes": "febrero",
+                "cantidad": 11,
+                "comision": 200000
+            },
+            {
+                "mes": "enero",
+                "cantidad": 0,
+                "comision": 0
+            },
+            {
+                "mes": "agosto",
+                "cantidad": 8,
+                "comision": 120000
+            },
+            {
+                "mes": "julio",
+                "cantidad": 3,
+                "comision": 0
+            }
+        ]
+    },
+    {
+        "legajo": 120000,
+        "sueldo_basico": 450000.0,
+        "ventas": [
+            {
+                "mes": "febrero",
+                "cantidad": 0,
+                "comision": 0
+            },
+            {
+                "mes": "abril",
+                "cantidad": 8,
+                "comision": 120000
+            }
+        ]
+    },
+    {
+        "legajo": 1268000,
+        "sueldo_basico": 325000.0,
+        "ventas": [
+            {
+                "mes": "noviembre",
+                "cantidad": 11,
+                "comision": 200000
+            },
+            {
+                "mes": "junio",
+                "cantidad": 0,
+                "comision": 0
+            },
+            {
+                "mes": "marzo",
+                "cantidad": 3,
+                "comision": 0
+            },
+            {
+                "mes": "mayo",
+                "cantidad": 6,
+                "comision": 120000
+            }
+        ]
+    }
+]
